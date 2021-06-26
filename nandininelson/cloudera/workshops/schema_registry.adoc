@@ -1,0 +1,9 @@
+= Schema Registry
+
+In this workshop you will use Clouder Schema Registry (SR) to produce and consume Avro data to Kafka clusters.
+
+The labs in this workshop will require two clusters 1 - Secure 2 - Unsecure . You can use the same cluster and change the security configs as well.
+
+== Overview
+
+Client
